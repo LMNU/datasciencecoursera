@@ -6,4 +6,4 @@ This is a list:
  * list item 1
  * list item 2
 
-[Link to google](www.google.com)
+[Link to google](http://www.google.com)
